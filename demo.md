@@ -1,3 +1,3 @@
 # demo
 
-hi just testing out github.
+Hi! just testing out github.
